@@ -27,7 +27,7 @@ I go beyond just writing code - I design secure, effective, and useful systems.
 Sou uma estudante de engenharira de software com uma mentalidade estratégica e uma formação jurídica sólida.  
 Durante anos, trabalhei no sector público, participando em investigações - incluindo financeiras e de cibercrime. Atualmente, transponho essa profundidade analítica para o desenvolvimento de software.
 
-Atualmente, concentro-me no desenvolvimento de back-end, na automatização inteligente e na cibersegurança.  
+Hoje, concentro-me no desenvolvimento de back-end, na automatização inteligente e na cibersegurança.  
 Não me limito a escrever código - concebo sistemas seguros, eficazes e úteis.
 
 🧠 O futuro pertence a quem acredita nos construtores do novo mundo.
