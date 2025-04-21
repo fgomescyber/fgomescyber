@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a software engineer with a strategic mindset and a solid legal background.  
+I'm a software engineer student with a strategic mindset and a solid legal background.  
 For years, I worked in the public sector, participating in investigations - including financial and cybercrime. Today, I bring that analytical depth to software development.
 
 My current focus is on backend development, intelligent automation, and cybersecurity.  
@@ -22,7 +22,7 @@ I go beyond just writing code - I design secure, effective, and useful systems.
 
 ## 🇧🇷/PT  Sobre mim
 
-Sou um engenheiro de software com uma mentalidade estratégica e uma formação jurídica sólida.  
+Sou uma estudante de engenharira de software com uma mentalidade estratégica e uma formação jurídica sólida.  
 Durante anos, trabalhei no sector público, participando em investigações - incluindo financeiras e de cibercrime. Atualmente, transponho essa profundidade analítica para o desenvolvimento de software.
 
 Atualmente, concentro-me no desenvolvimento de back-end, na automatização inteligente e na cibersegurança.  
