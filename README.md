@@ -59,9 +59,9 @@ This helps viewers quickly identify project type and focus.*
 
 | Code          | Project         | Description                                             |
 |---------------|------------------|---------------------------------------------------------|
-| 01-DataSentinel | 🔐 [DataSentinel](https://github.com/fgomescyber/DataSentinel) | Secure backend CRUD with access logging               |
-| 04-SpaceTicket  | 🚀 [SpaceTicket](https://github.com/fgomescyber/SpaceTicket)   | Booking system with user roles and frontend API       |
-| 04-EduFlow      | 📚 [EduFlow](https://github.com/fgomescyber/EduFlow)           | Educational app with automation and progress tracking |
+| 01.DataSentinel | 🔐 [01.DataSentinel](https://github.com/fgomescyber/01.DataSentinel) | A vehicle parking management system using **Dapper**, a lightweight and high-performance ORM for .NET, also demonstrates best practices for secure CRUD development with user access logging and token-based authentication     |
+| 03.WonderPass  | 🚀 [03.WonderPass](https://github.com/fgomescyber/03.WonderPass)   |   Hybrid native app developed with React Native    |
+| 04.So_Complica      | 📚 [04.So_Complica](https://github.com/fgomescyber/04.So_Complica)           | Educational app that teaches logic and Java programming to beginners in a fun, quiz-style learning environment |
 
 > *(More projects coming soon, each prefixed to reflect its category.)*
 
