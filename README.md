@@ -2,7 +2,8 @@
 📌 **Welcome to my Github space: github.com/fgomescyber/fgomescyber 
 
 
-# Fernanda Gomes — Full Stack Developer | Cybersecurity & Automation Oriented
+# Fernanda Gomes — Software Engineering Student | Cybersecurity & Automation Explorer
+
 
 📍 Portugal 
  📧 fgomescyber@gmail.com 
@@ -12,25 +13,24 @@
 
 ## 👋 About Me
 
-I'm a software engineer student with a strategic mindset and a solid legal background.  
-For years, I worked in the public sector, participating in investigations - including financial and cybercrime. Today, I bring that analytical depth to software development.
+I'm a Software Engineering student transitioning from a legal background, with experience in the public sector — particularly in financial and cybercrime investigations.
 
-My current focus is on backend development, intelligent automation, and cybersecurity.  
-I go beyond just writing code - I design secure, effective, and useful systems.
+I'm still in the early stages of my tech journey, currently exploring back-end development, smart automation, and cybersecurity.
+Each project is an opportunity to learn and to design systems that are not only functional, but also secure and meaningful.
 
-🧠 The future belongs who believe in builders to the new world.
+🧠 I'm here to grow, to contribute, and to build with purpose. The future belongs to those who create with courage and empathy.
+
 
 ---
 
 ## 🇧🇷/PT  Sobre mim
 
-Sou uma estudante de engenharira de software com uma mentalidade estratégica e uma formação jurídica sólida.  
-Durante anos, trabalhei no sector público, participando em investigações - incluindo financeiras e de cibercrime. Atualmente, transponho essa profundidade analítica para o desenvolvimento de software.
+Sou uma estudante de Engenharia de Software em transição de carreira, com uma base sólida em Direito e experiências anteriores no setor público — especialmente em investigações de crimes financeiros e cibercrimes.
 
-Hoje, concentro-me no desenvolvimento de back-end, na automatização inteligente e na cibersegurança.  
-Não me limito a escrever código - concebo sistemas seguros, eficazes e úteis.
+Ainda estou construindo minha trajetória na tecnologia, explorando com curiosidade e disciplina as áreas de desenvolvimento back-end, automação inteligente e cibersegurança.
+A cada linha de código, busco não só aprender, mas entender como criar sistemas que sejam seguros e úteis de verdade.
 
-🧠 O futuro pertence a quem acredita nos construtores do novo mundo.
+🧠 Estou aqui para aprender, crescer e contribuir com propósito. O futuro pertence a quem constrói com coragem e empatia.
 
 ---
 
@@ -67,14 +67,16 @@ This helps viewers quickly identify project type and focus.*
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Preferred Technology Stacks
 
-🧱 **Languages:** Java, Python, JavaScript, TypeScript, C++, SQL  
-💡 **Frameworks:** Spring Boot, Node.js, React, Django, Flutter  
-🧠 **Automation & No-Code:** n8n, Notion, GitHub Actions, Zapier  
-🔐 **Security:** Nmap, Metasploit, JWT, secure authentication flows  
-🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, NoSQL  
-🚀 **DevOps & Cloud:** Docker, CI/CD, AWS, GCP, Linux
+🧱 Languages I'm learning: Java, Python, JavaScript, C++, SQL
+💡 Frameworks I'm exploring: Spring Boot, Node.js, React, Django, Flutter
+🧠 Automation & No-Code tools I’m practicing with: n8n, Notion, GitHub Actions
+🔐 Security tools I’m curious about: Nmap, Metasploit, JWT, secure authentication flows
+🗄️ Databases I’m learning about: MongoDB, PostgreSQL, MySQL, NoSQL
+🚀 DevOps & Cloud tools I’m starting to use: Docker, CI/CD, AWS, GCP, Linux
+
+
 
 ---
 
@@ -85,6 +87,11 @@ This helps viewers quickly identify project type and focus.*
 🔗 [GitHub](https://github.com/fgomescyber)
 
 ---
- 
+
+
+✨ I'm still learning and building. Feedback is always welcome!
+
+---
+
 🧠 **Restoring glory for rebuilders.**  
 End
