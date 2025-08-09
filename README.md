@@ -1,8 +1,7 @@
 📌 **Welcome to my Github space: github.com/fgomescyber**
 
 # F. Gomes — Software Engineering Student | Cybersecurity & Automation Explorer
-
-📧 contato@fgomescyber.com  
+ 
 🌐 LinkedIn (perfil profissional) | 🔗 GitHub: github.com/fgomescyber  
 
 ---
